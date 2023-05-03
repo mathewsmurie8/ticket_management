@@ -25,7 +25,7 @@ const navigation: NavItem[] = [
 ];
 
 const otherLinks = [
-    { id: 1, name: 'Account Management', href: 'http://localhost:8000/admin', initial: 'A', current: false },
+    { id: 1, name: 'Account Management', href: 'https://octopus-app-2-8eqjh.ondigitalocean.app/admin/', initial: 'A', current: false },
 ];
 
 const SideNav: FC = () => {
